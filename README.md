@@ -1,4 +1,4 @@
-# SortingAlgoAnalysis
+# SortingAlgoAnalysisJava
 This is a collection of sorting algorithms (HeapSort, InsertionSort, MergeSort, QuickSort, RadixSort, and SelectionSort).
 In each file there are placed counters for comparisons and swaps to measure the amount of work being done.
 With each sort we pass a list of 50 thousand elements that are InOrder, ReverseOrder, PartiallySorted (almostOrder), and completely Random.
