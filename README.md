@@ -3,6 +3,7 @@ This is a collection of sorting algorithms (HeapSort, InsertionSort, MergeSort, 
 In each file there are placed counters for comparisons and swaps to measure the amount of work being done.
 With each sort we pass a list of 50 thousand elements that are InOrder, ReverseOrder, PartiallySorted (almostOrder), and completely Random.
 After examining the results we can see which sorts perform best in which situations, The zip of the files as well as the analysis are attached.
+The .xlsx has the raw data while the .docx has the analysis.
 
 
 To run this program:
